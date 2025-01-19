@@ -1,0 +1,5 @@
+## OS junk files
+*.DS_Store
+
+## VS junk files
+*.pyc
